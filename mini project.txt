@@ -2,7 +2,7 @@
 
 basic_salary=int(input("enter your basic_salary:"))
 bonus=int(input("enter your bonus:"))
-tax=int(input("enyer your tax:"))
+tax=int(input("enter your tax:"))
 
 gross_salary=basic_salary+bonus
 net_salary=gross_salary-tax
